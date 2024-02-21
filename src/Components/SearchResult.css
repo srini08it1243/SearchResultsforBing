@@ -1,0 +1,6 @@
+.Search-Result{
+    padding: 10px 20px;
+}
+.Search-Result:hover{
+    background-color: #efefef;
+}
